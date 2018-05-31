@@ -20,7 +20,7 @@ namespace SkypeClientApp
             {
                 while (true)
                 {
-                    Console.Write("Введите путь -- для выхода 4");
+                    Console.WriteLine("Введите путь -- для выхода 4");
                     string path = Console.ReadLine();
                     if (path == "4")
                     {
