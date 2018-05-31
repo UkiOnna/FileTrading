@@ -1,0 +1,8 @@
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\bin\Debug\SkypeServerApp.exe.config
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\bin\Debug\SkypeServerApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\bin\Debug\SkypeServerApp.pdb
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\bin\Debug\Newtonsoft.Json.dll
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\bin\Debug\Newtonsoft.Json.xml
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\obj\Debug\SkypeServerApp.csprojResolveAssemblyReference.cache
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\obj\Debug\SkypeServerApp.exe
+c:\users\сикировт\documents\visual studio 2017\Projects\SkypeServerApp\SkypeServerApp\obj\Debug\SkypeServerApp.pdb
